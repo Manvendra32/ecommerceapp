@@ -1,5 +1,44 @@
 # ecommerce
 
+# 🛒 Flutter eCommerce App
+
+A modern and responsive eCommerce mobile application built with **Flutter** and **GetX** for state management. This app showcases a beautiful product listing, cart functionality, and category filtering with a sleek UI.
+
+---
+
+## 📱 Screenshots
+
+> _Add some screenshots here of the home page, product list, product detail, cart, etc._
+
+---
+
+## 🚀 Features
+
+- 🧭 Splash screen with logo animation
+- 🔐 Login screen with form validation
+- 🏷️ Product listing by category
+- 🔍 Product detail view with quantity selector
+- 🛒 Add to cart, increment/decrement quantity
+- ❌ Remove items from cart
+- ✅ Real-time cart updates using GetX
+- 💬 Beautiful custom Snackbars for user actions
+- 📦 Clean UI with rounded cards and modern fonts
+
+---
+
+## 🧩 Tech Stack
+
+- **Flutter** 🐦
+- **Dart**
+- **GetX** (State Management, Navigation, and Snackbar)
+- **Google Fonts**
+- **REST API** integration (placeholder or real)
+
+---
+
+## 📂 Project Structure
+
+
 A new Flutter project.
 
 ## Getting Started
