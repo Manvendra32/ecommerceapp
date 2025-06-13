@@ -9,6 +9,14 @@ A modern and responsive eCommerce mobile application built with **Flutter** and 
 ## 📱 Screenshots
 
 > _Add some screenshots here of the home page, product list, product detail, cart, etc._
+>
+> ![Home Screen](https://github.com/Manvendra32/ecommerceapp/blob/main/lib/screenshot/img1.jpg)
+ ![Home Screen](https://github.com/Manvendra32/ecommerceapp/blob/main/lib/screenshot/img2.jpg)
+ ![Home Screen](https://github.com/Manvendra32/ecommerceapp/blob/main/lib/screenshot/img3.jpg)
+ ![Home Screen](https://github.com/Manvendra32/ecommerceapp/blob/main/lib/screenshot/img4.jpg)
+ ![Home Screen](https://github.com/Manvendra32/ecommerceapp/blob/main/lib/screenshot/img5.jpg)
+ ![Home Screen](https://github.com/Manvendra32/ecommerceapp/blob/main/lib/screenshot/img6.jpg)
+
 
 ---
 
